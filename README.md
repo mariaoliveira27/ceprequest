@@ -1,10 +1,12 @@
 # Projeto de Consulta de CEP com Spring Boot
 
-Este é um projeto de exemplo que demonstra como fazer uma requisição de CEP usando a API do ViaCEP em uma aplicação Spring Boot.
+Este é um projeto de exemplo que demonstra como fazer uma requisição de CEP usando a API do ViaCEP em uma aplicação Spring Boot. O projeto utiliza Spring WebFlux para realizar chamadas HTTP reativas e Jackson para manipulação de JSON.
+
 
 ## Descrição
 
 O projeto consiste em uma aplicação Spring Boot que expõe um endpoint REST para consultar informações de um CEP específico. A aplicação faz uma requisição à API do ViaCEP para obter os dados do CEP e retorna essas informações em formato JSON.
+
 
 ## Tecnologias Utilizadas
 
