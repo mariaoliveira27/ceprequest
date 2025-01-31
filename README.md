@@ -8,7 +8,7 @@ Este é um projeto de exemplo que demonstra como fazer uma requisição de CEP u
 O projeto consiste em uma aplicação Spring Boot que expõe um endpoint REST para consultar informações de um CEP específico. A aplicação faz uma requisição à API do ViaCEP para obter os dados do CEP e retorna essas informações em formato JSON.
 
 
-## Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 - **Java 17**
 - **Spring Boot 3.3.8**
@@ -18,8 +18,7 @@ O projeto consiste em uma aplicação Spring Boot que expõe um endpoint REST pa
 - **Spring Boot Starter Test** (para testes)
 
 
-## Como Executar o Projeto
-
+## 📦Executar o Projeto
 ### Pré-requisitos
 
 - Java 17 instalado
@@ -44,5 +43,20 @@ O projeto consiste em uma aplicação Spring Boot que expõe um endpoint REST pa
 
    ```bash
    mvn spring-boot:run
+5. Acesse a API:
+   URL base: [http://localhost:8080](http://localhost:8080.)
 
-A aplicação estará disponível em http://localhost:8080.
+
+## 📄 Licença
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Contato
+
+Para mais informações, entre em contato com mariaclariagomes@gmail.com.
+
+## Como Contribuir
+
+Se você tiver uma solução para os problemas acima ou encontrar novos erros, sinta-se à vontade para contribuir com o código. Abra um *pull request* e ajudaremos a integrar a solução.
+
+
+
